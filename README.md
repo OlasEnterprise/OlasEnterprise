@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 Hi there my name is Blessing and I am a full stack developer.
+- 🌱 I am currently working on a portfolio website and a react app.
+- I am currently boosting my knowledge on react.js and next.js
 <!--
 **OlasEnterprise/OlasEnterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
