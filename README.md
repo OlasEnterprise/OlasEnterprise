@@ -18,16 +18,16 @@ form or place-your-order form.</p>
 <p></p>This website allows for people to viev free solsr quotes and place interests by filling the request order form to show interest in purchases.</p>
 <img src="https://github.com/user-attachments/assets/090b303a-05ed-4031-8a2e-f3e6f617d624">
 <h2>SKILLS</h2>
-<ol>
+<ul>
   <li>• Programming Language: Python, PHP, JavaScript
 </li>
   <li> •	Coding Languages: HTML5, CSS3
 </li>
   <li> •	Libraries/Framework: Bootstrap, React.js
 </li>
-  <li>< •	Database: MySQL
+  <li>>•	Database: MySQL
 /li>
-</ol>
+</ul>
 
 
 
