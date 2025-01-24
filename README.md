@@ -25,8 +25,8 @@ form or place-your-order form.</p>
 </li>
   <li>Libraries/Framework: Bootstrap, React.js
 </li>
-  <li>>Database: MySQL
-/li>
+  <li>Database: MySQL
+</li>
 </ul>
 
 
