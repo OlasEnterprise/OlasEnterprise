@@ -19,13 +19,13 @@ form or place-your-order form.</p>
 <img src="https://github.com/user-attachments/assets/090b303a-05ed-4031-8a2e-f3e6f617d624">
 <h2>SKILLS</h2>
 <ul>
-  <li>• Programming Language: Python, PHP, JavaScript
+  <li>Programming Language: Python, PHP, JavaScript
 </li>
-  <li> •	Coding Languages: HTML5, CSS3
+  <li>Coding Languages: HTML5, CSS3
 </li>
-  <li> •	Libraries/Framework: Bootstrap, React.js
+  <li>Libraries/Framework: Bootstrap, React.js
 </li>
-  <li>>•	Database: MySQL
+  <li>>Database: MySQL
 /li>
 </ul>
 
