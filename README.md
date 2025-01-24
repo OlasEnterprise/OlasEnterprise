@@ -4,18 +4,18 @@
 - I am currently boosting my knowledge on react.js and next.js
 - <h2>My Works</h2>
 - <h3>Custom website</h3>
-Developed a responsive website that showcases the company’s area of expertise
+<p>Developed a responsive website that showcases the company’s area of expertise
 such as solar installations, sales of accessories and other line of businesses it does.
 Prospective buyers can also view free quotes inline with their eneeyy demands.
 It also allows for users and prospective buyers to show their interests by filling out the contact 
-form or place-your-order form.
+form or place-your-order form.</p>
 <img src="https://github.com/user-attachments/assets/5bf9a8bf-0336-4045-9e9c-f4c51ed50bc4" >
 <h3>Blog Sites</h3>
-The blog website gives room for comments and contributions and for publication by the admin before being made public.
+<p></p>The blog website gives room for comments and contributions and for publication by the admin before being made public.</p>
 <img src="https://github.com/user-attachments/assets/864d74c6-2bde-4573-9da7-3500f24e56b6">
 <img src="https://github.com/user-attachments/assets/21d5ef9e-7e5c-4be9-b972-523b2aecc541">
 <h3>Quotes website</h3>
-This website allows for people to viev free solsr quotes and place interests by filling the request order form to show interest in purchases.
+<p></p>This website allows for people to viev free solsr quotes and place interests by filling the request order form to show interest in purchases.</p>
 <img src="https://github.com/user-attachments/assets/090b303a-05ed-4031-8a2e-f3e6f617d624">
 
 
