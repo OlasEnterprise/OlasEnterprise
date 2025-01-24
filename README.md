@@ -1,5 +1,5 @@
-## Hi there 👋
-- <img src="https://github.com/user-attachments/assets/adefbaa3-1e39-406d-a071-603e5ba0c98c">
+
+- <img src="https://github.com/user-attachments/assets/adefbaa3-1e39-406d-a071-603e5ba0c98c" alt="## Hi there 👋">
 - 🌱 I am currently working on a portfolio website and a react app.
 - I am currently boosting my knowledge on react.js and next.js
 - <h2>My Works</h2>
