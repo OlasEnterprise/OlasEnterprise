@@ -1,9 +1,13 @@
-<div>
- <style>
+<html>
+ <head>
+   <style>
 body {background-color: powderblue;}
 h1   {color: blue;}
 p    {color: red;}
 </style>
+ </head>
+ <div>
+
 
 - <img src="https://github.com/user-attachments/assets/0506f6e4-bd3d-4adf-8112-6dc5791d78b3" alt="Hi there 👋">
 - 🌱 I am currently working on a portfolio website and a react app.
@@ -57,6 +61,7 @@ A calculator react app that allows for basic calculations styled usingWorks.stra
 **OlasEnterprise/OlasEnterprise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -68,3 +73,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
+</html>
+
