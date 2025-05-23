@@ -1,6 +1,6 @@
 
 - <img src="https://github.com/user-attachments/assets/0506f6e4-bd3d-4adf-8112-6dc5791d78b3" alt="Hi there 👋">
-<img src="hi.svg" alt="Say hi">
+<img src="hi.SVG" alt="Say hi">
 - 🌱 I am currently working on a portfolio website and a react app.
 - I am currently boosting my knowledge on react.js and next.js
 - <h2>My Works</h2>
