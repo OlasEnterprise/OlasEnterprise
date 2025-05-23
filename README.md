@@ -1,3 +1,6 @@
+<html style="background-image: url('https://github.com/user-attachments/assets/0506f6e4-bd3d-4adf-8112-6dc5791d78b3'); background-size:cover ; background-repeat: no repeat" >
+  
+
 
 - <img src="https://github.com/user-attachments/assets/adefbaa3-1e39-406d-a071-603e5ba0c98c" alt="Hi there 👋">
 - 🌱 I am currently working on a portfolio website and a react app.
@@ -61,3 +64,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+</html>
