@@ -6,7 +6,7 @@ h1   {color: blue;}
 p    {color: red;}
 </style>
  </head>
- <div>
+ <div style="color:blue">
 
 
 - <img src="https://github.com/user-attachments/assets/0506f6e4-bd3d-4adf-8112-6dc5791d78b3" alt="Hi there 👋">
